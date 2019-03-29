@@ -11,10 +11,8 @@
     "scripts": {
         "lint": "eslint ."
     },
-    "devDependencies": {
-        "@pinuts/eslint-config-pinuts-base": "^0.9.5"
-    },
     "dependencies": {
+        "@pinuts/eslint-config-pinuts-base": "^0.9.5",
         "eslint": "^5.15.3"
     }
 }
