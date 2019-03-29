@@ -15,6 +15,8 @@
         "@pinuts/eslint-config-pinuts-base": "^0.9.5",
         "babel-eslint": "^10.0.1",
         "eslint": "^5.15.3",
+        "eslint-plugin-jsx-a11y": "^6.2.1",
+        "eslint-plugin-prettier": "^3.0.1",
         "eslint-plugin-react": "^7.12.4"
     }
 }
