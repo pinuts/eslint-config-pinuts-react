@@ -1,4 +1,4 @@
-# @pinuts/eslint-config-pinuts-base
+# @pinuts/eslint-config-pinuts-react
 Common Eslint config for our Javascript.
 
 # Use in your project
