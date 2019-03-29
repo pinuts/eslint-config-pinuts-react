@@ -13,6 +13,8 @@
     },
     "dependencies": {
         "@pinuts/eslint-config-pinuts-base": "^0.9.5",
-        "eslint": "^5.15.3"
+        "babel-eslint": "^10.0.1",
+        "eslint": "^5.15.3",
+        "eslint-plugin-react": "^7.12.4"
     }
 }
