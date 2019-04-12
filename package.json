@@ -1,6 +1,6 @@
 {
     "name": "@pinuts/eslint-config-pinuts-react",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "private": false,
     "repository": "pinuts/eslint-config-pinuts-react",
@@ -22,6 +22,5 @@
         "eslint-plugin-promise": "^4.0.1",
         "eslint-plugin-react": "^7.12.4"
     },
-    "peerDependencies": {
-    }
+    "peerDependencies": {}
 }
