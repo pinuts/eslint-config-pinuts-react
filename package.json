@@ -1,6 +1,6 @@
 {
     "name": "@pinuts/eslint-config-pinuts-react",
-    "version": "0.9.10",
+    "version": "0.9.11",
     "license": "MIT",
     "private": false,
     "repository": "pinuts/eslint-config-pinuts-react",
