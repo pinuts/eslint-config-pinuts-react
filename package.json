@@ -12,16 +12,15 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@pinuts/eslint-config-pinuts-base": "1.0.5"
+        "@pinuts/eslint-config-pinuts-base": "^1.0.7",
+        "babel-eslint": "^10.0.1",
+        "eslint-loader": "^2.1.2",
+        "eslint-plugin-import": "^2.16.0",
+        "eslint-plugin-jsx-a11y": "^6.2.1",
+        "eslint-plugin-graphql": "^3.0.3",
+        "eslint-plugin-node": "^8.0.1",
+        "eslint-plugin-promise": "^4.0.1",
+        "eslint-plugin-react": "^7.12.4"
     },
-    "peerDependencies": {
-        "babel-eslint": "10.x",
-        "eslint-loader": "2.x",
-        "eslint-plugin-import": "2.x",
-        "eslint-plugin-jsx-a11y": "6.x",
-        "eslint-plugin-graphql": "3.x",
-        "eslint-plugin-node": "8.x",
-        "eslint-plugin-promise": "4.x",
-        "eslint-plugin-react": "7.x"
-    }
+    "peerDependencies": {}
 }
