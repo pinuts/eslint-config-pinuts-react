@@ -11,8 +11,10 @@
     "scripts": {
         "lint": "eslint ."
     },
+    "dependencies": {
+        "@pinuts/eslint-config-pinuts-base": "1.0.5"
+    },
     "peerDependencies": {
-        "@pinuts/eslint-config-pinuts-base": "1.x",
         "babel-eslint": "10.x",
         "eslint-loader": "2.x",
         "eslint-plugin-import": "2.x",
