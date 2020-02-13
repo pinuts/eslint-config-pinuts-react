@@ -12,7 +12,7 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@pinuts/eslint-config-pinuts-base": "^1.0.7",
+        "@pinuts/eslint-config-pinuts-base": "^2.0.0",
         "babel-eslint": "^10.0.1",
         "eslint-loader": "^2.1.2",
         "eslint-plugin-import": "^2.16.0",
