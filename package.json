@@ -13,8 +13,8 @@
     },
     "dependencies": {
         "@pinuts/eslint-config-pinuts-base": "^2.4.0",
-        "babel-eslint": "^10.1.0",
-        "eslint-loader": "^4.0.2",
+        "@babel/eslint-parser":"^7.17.0",        
+        "eslint-webpack-plugin": "^3.1.1",        
         "eslint-plugin-import": "^2.25.4",
         "eslint-plugin-jsx-a11y": "^6.5.1",
         "eslint-plugin-graphql": "^4.0.0",
