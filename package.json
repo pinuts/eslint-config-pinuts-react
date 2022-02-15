@@ -1,6 +1,6 @@
 {
     "name": "@pinuts/eslint-config-pinuts-react",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "license": "MIT",
     "private": false,
     "repository": "pinuts/eslint-config-pinuts-react",
@@ -12,8 +12,8 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@pinuts/eslint-config-pinuts-base": "^2.0.0",
-        "babel-eslint": "^10.0.1",
+        "@pinuts/eslint-config-pinuts-base": "^2.0.4",
+        "babel-eslint": "^10.1.0",
         "eslint-loader": "^4.0.2",
         "eslint-plugin-import": "^2.25.4",
         "eslint-plugin-jsx-a11y": "^6.5.1",
