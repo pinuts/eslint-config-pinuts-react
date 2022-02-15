@@ -1,6 +1,6 @@
 {
     "name": "@pinuts/eslint-config-pinuts-react",
-    "version": "2.4.0",
+    "version": "2.4.1",
     "license": "MIT",
     "private": false,
     "repository": "pinuts/eslint-config-pinuts-react",
@@ -13,8 +13,8 @@
     },
     "dependencies": {
         "@pinuts/eslint-config-pinuts-base": "^2.4.1",
-        "@babel/eslint-parser":"^7.17.0",        
-        "eslint-webpack-plugin": "^3.1.1",        
+        "@babel/eslint-parser": "^7.17.0",
+        "eslint-webpack-plugin": "^3.1.1",
         "eslint-plugin-import": "^2.25.4",
         "eslint-plugin-jsx-a11y": "^6.5.1",
         "eslint-plugin-graphql": "^4.0.0",
